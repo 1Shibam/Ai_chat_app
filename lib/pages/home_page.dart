@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:yapper_bot/pages/app_colors.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -20,10 +19,21 @@ class _HomePageState extends State<HomePage> {
                 image: AssetImage("assets/images/background1.jpg"),
                 fit: BoxFit.cover)),
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Container(
-              height: 60,
-              color: Colors.red,
+            const SizedBox(
+              height: 28,
+            ),
+            const Padding(
+              padding: EdgeInsets.only(left: 8.0),
+              child: Text(
+                'Yapper-9Bot',
+                style: TextStyle(
+                    fontFamily: 'Classica',
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    fontSize: 28),
+              ),
             ),
             Expanded(child: ListView()),
             Padding(
