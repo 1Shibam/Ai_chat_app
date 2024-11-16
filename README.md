@@ -1,6 +1,6 @@
-# yapper_bot
+# AI Chat Bot(yapper_bot)
 
-A new Flutter project.
+A personal flutter project in which i integrated Goggle Gemini for chat responses
 
 ## Getting Started
 
