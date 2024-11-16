@@ -1,16 +1,8 @@
 # AI Chat Bot(yapper_bot)
 
-A personal flutter project in which i integrated Goggle Gemini for chat responses
+A personal flutter project in which i integrated Goggle Gemini for chat responses.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Sample Images
+![post1](https://github.com/user-attachments/assets/42eb69b8-2e9c-41f4-ac9a-e69875c5ce07)
+![post2](https://github.com/user-attachments/assets/650efe0e-04a6-4afb-bbfb-c25b6bb8c123)
+![post 3](https://github.com/user-attachments/assets/bb753e42-5834-45db-8f8b-9329de735ba9)
